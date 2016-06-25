@@ -1,2 +1,2 @@
-# PortlandStateJavaSummer2016
-Source code that we write together in Advanced Programming with Java
+# CS410J - Huy Nguyen
+Working Codes for CS410J
